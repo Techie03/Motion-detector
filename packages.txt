@@ -6,4 +6,3 @@ pip install opencv-python
 pip install pandas
 pip install datetime
 
-A screen shot of the command prompt has been kept in the wiki section.
